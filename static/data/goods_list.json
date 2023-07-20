@@ -1,0 +1,39 @@
+{
+	"total": 57332,
+	"pagenum": 1,
+	
+	"goods": [
+		{
+			"cat_id": 998,
+			"goods_name": "400ml 统一鲜橙多，营养丰富口感好",
+			"goods_price": 14,
+			"goods_number": 100,
+			"goods_weight": 3,
+			"goods_big_logo": "",
+			"goods_small_logo": "",
+			"add_time": 1516662792,
+			"upd_time": 1516662792,
+			"hot_number": 0,
+			"is_promote": false,
+			"cat_one_id": 962,
+			"cat_two_id": 981,
+			"cat_three_id": 998
+		},
+		{
+			"cat_id": 999,
+			"goods_name": "switch 全球畅销游戏机，创意十足，还可以游玩《赛尔达传说 王国之泪》哦！",
+			"goods_price": 2198,
+			"goods_number": 100,
+			"goods_weight": 3,
+			"goods_big_logo": "",
+			"goods_small_logo": "",
+			"add_time": 1516662792,
+			"upd_time": 1516662792,
+			"hot_number": 0,
+			"is_promote": false,
+			"cat_one_id": 962,
+			"cat_two_id": 981,
+			"cat_three_id": 998
+		}
+	]
+}

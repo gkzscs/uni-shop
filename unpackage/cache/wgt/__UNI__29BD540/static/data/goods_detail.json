@@ -1,0 +1,66 @@
+{
+	"goods_id": 666,
+	"cat_id": 998,
+	"goods_name": "400ml 统一鲜橙多，营养丰富口感好",
+	"goods_price": 14,
+	"goods_number": 100,
+	"goods_weight": 100,
+	"goods_introduce": "",
+	"goods_big_logo": "",
+	"goods_small_logo": "",
+	"goods_state": 2, 
+	"is_del": "0",
+	"add_time": 1516662792,
+	"upd_time": 1516662792,
+	"delete_time": null,
+	"hot_number": 0,
+	"is_promote": false,
+	"cat_one_id": 962,
+	"cat_two_id": 981,
+	"cat_three_id": 998,
+	"goods_cat": "962, 981, 998",
+	"pics": [
+		{
+			"pics_id": 1,
+			"goods_id": 666,
+			"pics_big": "/static/img/1.jpg",
+			"pics_mid": "/static/img/1.jpg",
+			"pics_sma": "/static/img/1.jpg",
+			"pics_big_url": "",
+			"pics_mid_url": "",
+			"pics_sma_url": ""
+		},
+		{
+			"pics_id": 2,
+			"goods_id": 666,
+			"pics_big": "/static/img/2.jpg",
+			"pics_mid": "/static/img/2.jpg",
+			"pics_sma": "/static/img/2.jpg",
+			"pics_big_url": "",
+			"pics_mid_url": "",
+			"pics_sma_url": ""
+		},
+		{
+			"pics_id": 3,
+			"goods_id": 666,
+			"pics_big": "/static/img/3.jpg",
+			"pics_mid": "/static/img/3.jpg",
+			"pics_sma": "/static/img/3.jpg",
+			"pics_big_url": "",
+			"pics_mid_url": "",
+			"pics_sma_url": ""
+		}
+	],
+	"attrs": [
+		{
+			"goods_id": 57332,
+			"attr_id": 8519,
+			"attr_value": "400",
+			"add_price": 0,
+			"attr_name": "主体-型号",
+			"attr_sel": "only",
+			"attr_write": "manual"
+			
+		}
+	]
+}
